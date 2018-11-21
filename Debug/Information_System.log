@@ -1,0 +1,33 @@
+﻿  user.cpp
+e:\inf.system\information_system\information_system\filehelper.h(13): warning C4018: '<': signed/unsigned mismatch
+e:\inf.system\information_system\information_system\filehelper.h(72): warning C4018: '<': signed/unsigned mismatch
+  product.cpp
+  order.cpp
+e:\inf.system\information_system\information_system\order.cpp(38): warning C4018: '<': signed/unsigned mismatch
+e:\inf.system\information_system\information_system\order.cpp(53): warning C4018: '<': signed/unsigned mismatch
+e:\inf.system\information_system\information_system\order.cpp(80): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(505): note: see declaration of 'localtime'
+e:\inf.system\information_system\information_system\order.cpp(81): warning C4996: 'asctime': This function or variable may be unsafe. Consider using asctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(116): note: see declaration of 'asctime'
+e:\inf.system\information_system\information_system\order.cpp(138): warning C4018: '<': signed/unsigned mismatch
+e:\inf.system\information_system\information_system\order.cpp(182): warning C4018: '<': signed/unsigned mismatch
+e:\inf.system\information_system\information_system\order.cpp(216): warning C4018: '<': signed/unsigned mismatch
+e:\inf.system\information_system\information_system\order.cpp(220): warning C4018: '<': signed/unsigned mismatch
+e:\inf.system\information_system\information_system\order.cpp(290): warning C4018: '<': signed/unsigned mismatch
+e:\inf.system\information_system\information_system\order.cpp(294): warning C4018: '<': signed/unsigned mismatch
+e:\inf.system\information_system\information_system\order.cpp(364): warning C4018: '<': signed/unsigned mismatch
+e:\inf.system\information_system\information_system\order.cpp(368): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+e:\inf.system\information_system\information_system\texthelper.h(29): warning C4018: '>=': signed/unsigned mismatch
+e:\inf.system\information_system\information_system\texthelper.h(35): warning C4018: '<': signed/unsigned mismatch
+e:\inf.system\information_system\information_system\main.cpp(23): warning C4101: 'h': unreferenced local variable
+  Is.cpp
+  guest.cpp
+  Client.cpp
+e:\inf.system\information_system\information_system\client.cpp(52): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+e:\inf.system\information_system\information_system\client.cpp(126): warning C4715: 'Clients::operator+': not all control paths return a value
+e:\inf.system\information_system\information_system\is.cpp(97): warning C4715: 'Is::createNewId': not all control paths return a value
+  LINK : E:\Inf.System\Information_System\Debug\Information_System.exe not found or not built by the last incremental link; performing full link
+  Information_System.vcxproj -> E:\Inf.System\Information_System\Debug\Information_System.exe
+  Information_System.vcxproj -> E:\Inf.System\Information_System\Debug\Information_System.pdb (Full PDB)
